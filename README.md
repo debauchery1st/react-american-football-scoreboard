@@ -28,8 +28,8 @@ In this project, you build an app that diplays a scoreboard for an american foot
 
 Follow these steps for completing your project.
 
-- [ ] Submit a Pull-Request to merge <firstName-lastName> Branch into master (student's Repository). **Please don't merge your own pull request**
-- [ ] Add your team lead as a reviewer on the pull-request
+- [✅] Submit a Pull-Request to merge <firstName-lastName> Branch into master (student's Repository). **Please don't merge your own pull request**
+- [✅] Add your team lead as a reviewer on the pull-request
 - [ ] Your team lead will count the project as complete by merging the branch back into master.
 - [ ] Do your magic!
 
@@ -48,7 +48,7 @@ Follow these steps for completing your project.
 const [value, setValue] = useState(); // Give these better names, and decide whether you want to pass an initial score into the state hook as the initialValue
 ```
 
-- [ ] Set up the state value for the Tigers team score using a second state hook call
+- [✅] Set up the state value for the Tigers team score using a second state hook call
 
 ### STEP 3 - Render the Scores to the DOM
 
